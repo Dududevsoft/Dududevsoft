@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,20:0F172A,40:2563EB,70:7C3AED,100:06B6D4&text=Eduardo%20Carvalho&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Artificial%20Intelligence%20•%20Software%20Engineer%20•%20Cyberpunk%20Mode&descAlignY=62"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:001B44,25:003B9B,60:005CFF,100:00B4FF&text=Eduardo%20Carvalho&fontColor=FFFFFF&fontSize=46&fontAlignY=40&animation=fadeIn&desc=Artificial%20Intelligence%20•%20Software%20Engineer%20•%20Cyberpunk%20Mode&descAlignY=62&descColor=E0F2FF"/>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Booting+JARVIS+Interface...;Hello,+I'm+Eduardo+Carvalho;Software+Engineering+Student;Java+%7C+Python+%7C+SQL+%7C+AI+Developer;Welcome+to+my+GitHub+Profile."/>
 
